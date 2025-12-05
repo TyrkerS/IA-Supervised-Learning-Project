@@ -51,7 +51,7 @@ This project demonstrates the foundations of the deep‑learning workflow in a s
 ## 📁 Project Structure (Notebook Sections)
 
 ```
-P3a.ipynb
+IA_SL_Cars.ipynb
 │
 ├── Teacher: Initialization
 │   ├── Imports
@@ -160,7 +160,7 @@ pip install torch pandas numpy matplotlib scikit-learn
 
 ### **2. Open the notebook**
 ```
-jupyter notebook P3.ipynb
+jupyter notebook IA_SL_Cars.ipynb
 ```
 
 ### **3. Ensure dataset is available**
